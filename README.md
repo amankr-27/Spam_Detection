@@ -4,7 +4,6 @@ This project focuses on developing a machine learning model to classify SMS mess
 # 🧠 Motivation
 With the widespread use of messaging and email platforms, spam messages can pose security risks and degrade user experience. Traditional spam filters rely on rule-based systems, which fail to adapt to evolving spam tactics. This project introduces a data-driven approach using machine learning to automatically detect spam with high reliability.
 
-# 🔄 Workflow Overview
 # 1. 📥 Data Loading & Inspection
 Dataset: spam.csv containing labeled messages.
 
