@@ -1,5 +1,5 @@
 # 📧 Spam Detection using Machine Learning
-This project focuses on developing a machine learning model to classify SMS messages as spam or ham (not spam). Implemented during a data science internship at Oasis Infobyte, the project uses natural language processing (NLP) and a Multinomial Naive Bayes classifier to achieve high accuracy and recall.
+This project focuses on developing a machine learning model to classify SMS messages as spam or ham (not spam).The project uses natural language processing (NLP) and a Multinomial Naive Bayes classifier to achieve high accuracy and recall.
 
 # 🧠 Motivation
 With the widespread use of messaging and email platforms, spam messages can pose security risks and degrade user experience. Traditional spam filters rely on rule-based systems, which fail to adapt to evolving spam tactics. This project introduces a data-driven approach using machine learning to automatically detect spam with high reliability.
