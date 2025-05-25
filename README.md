@@ -42,7 +42,8 @@ Achieved 98.49% recall on the test set.
 
 # 🔮 Key Insights
 Words like “free”, “call”, “win”, “now” appear frequently in spam.
-![Image](Images/Spam message.PNG)
+
+![Image](Images/Spam messages.PNG)
 
 
 Class imbalance is evident: ~13% spam vs 87% ham.
